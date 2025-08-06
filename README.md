@@ -1,5 +1,4 @@
 # terraform-aws-high-availability-app
-Terraform project to deploy a highly available web application on AWS.
 
 # 🏗️ High Availability Web Application on AWS using Terraform
 
